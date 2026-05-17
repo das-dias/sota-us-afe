@@ -1,0 +1,5 @@
+Work,DOI,Description
+ChaoChenOJSSC2021,https://doi.org/10.1109/OJSSCS.2021.3115398,Amazing review paper on the state of the art on Ultrasound-on-Chip systems for TX and RX.
+NSanchezISSCC2021,https://doi.org/10.1109/ISSCC42613.2021.9365808,Amazing technological basis baber describing the CMOS systems supporting butterfly IQ products.
+JRothbergPNAS2021,https://doi.org/10.1073/pnas.2019339118,Amazing peer reviewed journal paper reviewing the butterfly IQs product supported US diagnostic modes describing a encoded averager circuit for supporting the summation/averaging of up to 8 TIA LNA outputs with direct and reversed polarity for each individual channel in the same column to multiplex and further reduce input referred noise for each individual sensing line.
+SKimDIAGNOSTICS2024,https://doi.org/10.3390/diagnostics14151669,Review paper on the future use cases of AI in Point of Care Ultrasound (POCUS) diagnostics.

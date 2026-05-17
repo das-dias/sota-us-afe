@@ -1,0 +1,7 @@
+Work, Architecture,Pitch Match, DOI, Notes
+Kim2017TBIOCAS, CR-SAR, No, 10.1109/TBCAS.2016.2571739, The non-uniform sampling reduces the FIFO LUT size required for digital beamforming by around 20 times
+MChen2017JSSC, LP-Delta Sigma,Yes,10.1109/JSSC.2017.2749425, Digital beamformer using the quantised output of the Delta Sigma high DR front end.
+Lee2021JSSC, CR-SAR ADC w/ Dynamic Bit Sharing (DBS) for 2x2 each µBF sub array,Yes, 10.1109/JSSC.2021.3049560, The resulting ADC is pitch matched to the area of the sub-array but not element-level pitchmatched.
+Li2019VLSIC, Hybrid CR-SAR w/shared MSBs  + Single Slope Ramp ADC for finer individual  LSBs, Yes,10.23919/VLSIC.2019.8778200,
+DUrbino2018JSSC, LP and BP Sigma Delta ADC,Yes,10.1109/JSSC.2018.2859961,The work uses the band-pass characteristic of the ultrasound transducer element to remove redundant filtering electronics from the front end.
+Wu2020APCCAS, 16ch Element-level TDM shared 5+5+6 14b 50MS/s Pipelined ADC,Yes (sub-array matched),10.1109/APCCAS50809.2020.9301653,
