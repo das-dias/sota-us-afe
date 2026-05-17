@@ -42,6 +42,7 @@ The FoM is plotted against number of channels per millimiter of the compression 
 
 ![mux_afe_survey_graphical_state_of_the_art](./data/afe_mux_survey_graph.png)
 
+*Important Note*: Output Digital Driver and Source Follower Buffer power dissipation was removed from $FoM_{MUX}$, accounting only for AFE power dissipation p/ element, which might include embedded ADC or internal buffer driver power dissipation, depending on architecture.
 
 ## Contributing:
 
